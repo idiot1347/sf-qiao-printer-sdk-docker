@@ -12,7 +12,7 @@
 
 ```shell
 
-1. 根据 https://docs.docker.com/install/ 指南安卓 docker
+1. 根据 https://docs.docker.com/install/ 的步骤安装 docker
 
 2. git clone https://github.com/idiot1347/sf-qiao-printer-sdk-docker.git  && cd sf-qiao-printer-sdk-docker
 
